@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-blog-01-user" />
+        <module name="spring-boot-blog-02-role" />
+        <module name="spring-boot-blog-03-auth" />
+        <module name="spring-boot-blog-04-blog" />
+        <module name="spring-boot-blog-05-comment" />
+        <module name="spring-boot-blog-06-vote" />
+        <module name="spring-boot-blog-07-catalog" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-blog-01-user" target="1.8" />
+      <module name="spring-boot-blog-02-role" target="1.8" />
+      <module name="spring-boot-blog-03-auth" target="1.8" />
+      <module name="spring-boot-blog-04-blog" target="1.8" />
+      <module name="spring-boot-blog-05-comment" target="1.8" />
+      <module name="spring-boot-blog-06-vote" target="1.8" />
+      <module name="spring-boot-blog-07-catalog" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
